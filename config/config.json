@@ -1,0 +1,14 @@
+{
+  "autoloadFolders": [
+    "Controllers",
+    "Models",
+    "Exceptions",
+    "Utils"
+  ],
+  "database": {
+    "host":"127.0.0.1",
+    "dbname": "machine-a-sous",
+    "username": "root",
+    "password": ""
+  }
+}
