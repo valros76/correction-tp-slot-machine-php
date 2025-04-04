@@ -13,6 +13,7 @@ ob_start();
     <div class="reel" id="reel2">🍒</div>
     <div class="reel" id="reel3">🍒</div>
   </article>
+  <p id="result">Lancez les rouleaux</p>
   <button id="spinButton">
     Jouer
   </button>
